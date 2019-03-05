@@ -11,7 +11,7 @@ git clone https://github.com/syaifulislam/orderin-app-frontend.git
 change `.env.example` to `.env`.
 
 ```bash
-git clone https://github.com/syaifulislam/orderin-app-frontend.git
+composer update
 ```
 
 ### Start
